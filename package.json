@@ -17,10 +17,14 @@
 	],
 	"contributes": {
 		"snippets": [
-			{
-				"language": "html",
-				"path": "./snippets/snippets.json"
-			}
+ 			{
+  				"language": "html",
+  				"path": "./snippets/snippets.json"
+ -			},
+ -			{
+ -				"language": "javascript",
+ -				"path": "./snippets/snippets.json"
+ -			}			
 		]
 	},
 	"license": "MIT",
